@@ -1,50 +1,45 @@
-<h1 align="center">Welcome, I'm Ferdy Salsabilla</h1>
+<h1 align="center">Halo, saya Ferdy Salsabilla</h1>
 
 <p align="center">
-  Fullstack Software Engineer • System Builder • API Enthusiast
+Fullstack Engineer • Arsitektur Sistem • REST API Developer
+</p>
+
+<img width="1201" height="808" alt="cover_fertechtive" src="https://github.com/user-attachments/assets/89c63ecd-0dbc-4dc3-b052-e5406a2fbb8d" />
+
+
+<br/>
+
+<h2>Tentang Saya</h2>
+
+<p>
+Saya terbiasa mengembangkan aplikasi dari awal hingga siap digunakan, baik dari sisi backend maupun frontend. 
+Bagi saya, menulis kode bukan hanya soal membuat fitur berjalan, tetapi juga memastikan struktur sistem tetap rapi, mudah dikembangkan, dan nyaman digunakan dalam jangka panjang.
+</p>
+
+<p>
+Saya menikmati proses membangun sistem yang terintegrasi, mulai dari pengolahan data, pembuatan API, hingga tampilan antarmuka yang responsif.
 </p>
 
 <br/>
 
-<h2>About Me</h2>
-
-<p>
-Saya terbiasa mengembangkan sistem end-to-end, mulai dari backend service, REST API, hingga frontend berbasis component-driven architecture.
-</p>
-
-<p>
-Dalam setiap pengembangan, saya mengutamakan:
-</p>
+<h2>Apa yang Saya Kerjakan</h2>
 
 <ul>
-  <li>Clean code</li>
-  <li>Modular design</li>
-  <li>Separation of concerns</li>
-</ul>
-
-<p>
-Tujuannya adalah menciptakan sistem yang mudah dikembangkan, mudah dipelihara, dan dapat berkembang seiring kebutuhan bisnis.
-</p>
-
-<br/>
-
-<h2>What I Do</h2>
-
-<ul>
-  <li>Membangun aplikasi web modern dengan pendekatan fullstack</li>
-  <li>Mendesain dan mengembangkan REST API</li>
-  <li>Mengintegrasikan sistem (inventory, CMS, dll)</li>
-  <li>Mengoptimasi struktur database dan performa query</li>
-  <li>Mengembangkan UI yang responsif dan user-friendly</li>
+  <li>Membangun aplikasi web dengan pendekatan fullstack</li>
+  <li>Mengembangkan dan mengelola REST API</li>
+  <li>Mengintegrasikan berbagai sistem seperti inventory dan CMS</li>
+  <li>Menyusun struktur database yang efisien</li>
+  <li>Membuat tampilan yang sederhana, bersih, dan mudah digunakan</li>
 </ul>
 
 <br/>
 
-<h2>Tech Stack</h2>
+<h2>Teknologi yang Digunakan</h2>
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+
+<td width="50%" valign="top">
 
 <h3>Frontend</h3>
 
@@ -60,7 +55,7 @@ Tujuannya adalah menciptakan sistem yang mudah dikembangkan, mudah dipelihara, d
 
 </td>
 
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
 <h3>Backend</h3>
 
@@ -73,12 +68,14 @@ Tujuannya adalah menciptakan sistem yang mudah dikembangkan, mudah dipelihara, d
 </p>
 
 </td>
+
 </tr>
 
 <tr>
-<td valign="top">
 
-<h3>Mobile Development</h3>
+<td width="50%" valign="top">
+
+<h3>Mobile</h3>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45"/>
@@ -87,7 +84,7 @@ Tujuannya adalah menciptakan sistem yang mudah dikembangkan, mudah dipelihara, d
 
 </td>
 
-<td valign="top">
+<td width="50%" valign="top">
 
 <h3>Database</h3>
 
@@ -97,10 +94,12 @@ Tujuannya adalah menciptakan sistem yang mudah dikembangkan, mudah dipelihara, d
 </p>
 
 </td>
+
 </tr>
 
 <tr>
-<td colspan="2">
+
+<td colspan="2" align="center">
 
 <h3>Tools & Environment</h3>
 
@@ -113,55 +112,40 @@ Tujuannya adalah menciptakan sistem yang mudah dikembangkan, mudah dipelihara, d
 </p>
 
 </td>
+
 </tr>
+
 </table>
 
 <br/>
 
-<h2>Core Expertise</h2>
+<h2>Pendekatan Saya</h2>
 
 <ul>
-  <li>Fullstack Web Development</li>
-  <li>REST API Design & Integration</li>
-  <li>Laravel MVC Architecture</li>
-  <li>React & Next.js Component-Based Development</li>
-  <li>Database Design & Optimization</li>
-  <li>System Integration (API & CMS)</li>
-  <li>Clean Code & Maintainability</li>
-  <li>Version Control (Git)</li>
+  <li>Menjaga struktur kode tetap rapi dan konsisten</li>
+  <li>Membagi sistem menjadi bagian-bagian yang jelas</li>
+  <li>Mengutamakan kemudahan pengembangan jangka panjang</li>
+  <li>Membangun fitur yang benar-benar digunakan</li>
 </ul>
 
 <br/>
 
-<h2>Engineering Approach</h2>
-
-<ul>
-  <li>Modular architecture untuk scalability</li>
-  <li>Separation of concerns untuk maintainability</li>
-  <li>RESTful API sebagai standar komunikasi sistem</li>
-  <li>Reusable component pada frontend</li>
-  <li>Struktur database yang efisien dan teroptimasi</li>
-  <li>Workflow pengembangan berbasis Git</li>
-</ul>
-
-<br/>
-
-<h2>Contact</h2>
+<h2>Kontak</h2>
 
 <p>
   <a href="https://github.com/ferdy-s" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
   </a>
   <a href="https://www.instagram.com/salferdy_/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="35"/>
   </a>
   <a href="https://wa.me/6282134027993" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="35"/>
   </a>
 </p>
 
 <p>
-  <strong>GitHub:</strong> https://github.com/ferdy-s <br/>
-  <strong>Instagram:</strong> https://www.instagram.com/salferdy_/ <br/>
-  <strong>WhatsApp:</strong> +62 821-3402-7993
+GitHub: https://github.com/ferdy-s <br/>
+Instagram: https://www.instagram.com/salferdy_/ <br/>
+WhatsApp: +62 821-3402-7993
 </p>
