@@ -186,8 +186,8 @@ Saya juga cukup sering bekerja dengan integrasi sistem, mulai dari pengolahan da
 </td>
 <td style="border:none; padding:10px 15px; font-size:14px;">
   <a href="https://github.com/ferdy-s" target="_blank" style="text-decoration:none; color:inherit;">
-    github.com/ferdy-s
   </a>
+    github.com/ferdy-s
 </td>
 </tr>
 
@@ -199,8 +199,8 @@ Saya juga cukup sering bekerja dengan integrasi sistem, mulai dari pengolahan da
 </td>
 <td style="border:none; padding:10px 15px; font-size:14px;">
   <a href="https://www.instagram.com/salferdy_/" target="_blank" style="text-decoration:none; color:inherit;">
-    @salferdy_
   </a>
+    @salferdy_
 </td>
 </tr>
 
@@ -212,8 +212,8 @@ Saya juga cukup sering bekerja dengan integrasi sistem, mulai dari pengolahan da
 </td>
 <td style="border:none; padding:10px 15px; font-size:14px;">
   <a href="https://wa.me/6282134027993" target="_blank" style="text-decoration:none; color:inherit;">
-    +62 821-3402-7993
   </a>
+  +62 821-3402-7993
 </td>
 </tr>
 
