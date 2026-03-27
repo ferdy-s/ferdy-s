@@ -176,25 +176,45 @@ Saya juga cukup sering bekerja dengan integrasi sistem, mulai dari pengolahan da
 <br/>
 
 
-<p align="center">
+<table style="border:none;">
 
-<span style="display:inline-block; margin:0 20px;">
+<tr>
+<td style="border:none; padding:10px 15px;">
   <a href="https://github.com/ferdy-s" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   </a>
-</span>
+</td>
+<td style="border:none; padding:10px 15px; font-size:14px;">
+  <a href="https://github.com/ferdy-s" target="_blank" style="text-decoration:none; color:inherit;">
+    github.com/ferdy-s
+  </a>
+</td>
+</tr>
 
-<span style="display:inline-block; margin:0 20px;">
+<tr>
+<td style="border:none; padding:10px 15px;">
   <a href="https://www.instagram.com/salferdy_/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="55"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40"/>
   </a>
-</span>
+</td>
+<td style="border:none; padding:10px 15px; font-size:14px;">
+  <a href="https://www.instagram.com/salferdy_/" target="_blank" style="text-decoration:none; color:inherit;">
+    @salferdy_
+  </a>
+</td>
+</tr>
 
-<span style="display:inline-block; margin:0 20px;">
+<tr>
+<td style="border:none; padding:10px 15px;">
   <a href="https://wa.me/6282134027993" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="55"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="40"/>
   </a>
-</span>
+</td>
+<td style="border:none; padding:10px 15px; font-size:14px;">
+  <a href="https://wa.me/6282134027993" target="_blank" style="text-decoration:none; color:inherit;">
+    +62 821-3402-7993
+  </a>
+</td>
+</tr>
 
-</p>
-
+</table>
